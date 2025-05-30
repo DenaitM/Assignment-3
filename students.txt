@@ -1,0 +1,7 @@
+001054768, Mark, Jia, Biology, 3.3
+001067899, Arnold, June, History, 2.9
+001023453, Janzo, Talon, Computer Science, 3.5
+001034323, Claire, Summer, Communications, 2.2
+001068912, Carlos, John, Business, 3.3
+001057844, Samuel, Riley, Electrical Engineering, 3.3
+001023409, Josh, Timothy, Mechanical Engineering, 3.6
